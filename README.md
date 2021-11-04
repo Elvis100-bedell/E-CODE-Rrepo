@@ -1,2 +1,2 @@
-# E-CODE-Rrepo
+# E-CODE- repo
 E-CODE blog project
